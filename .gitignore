@@ -1,0 +1,38 @@
+
+---
+
+## 📄 `.gitignore`
+
+This ignores compiled binaries and common C++ build files so your repo stays clean.
+
+```gitignore
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
