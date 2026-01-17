@@ -14,6 +14,7 @@ All files here are for experimentation, understanding syntax, logic, and core pr
 - Building a strong foundation for future software development  
 
 ## 🧠 Learning Resources
+
 - C++ Documentation: https://en.cppreference.com
 - [Bro Code YouTube Channel](https://www.youtube.com/@BroCodez)
 - [Kenny Yip YouTube Channel](https://www.youtube.com/@KennyYipCoding)

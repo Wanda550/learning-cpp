@@ -3,8 +3,6 @@
 // const pointer 
 // pointer const
 int main() {
-
-
     int savings = 10000;
     const int savings2 = 15000;
 
