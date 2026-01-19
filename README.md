@@ -1,11 +1,11 @@
-# C++ Learning Repository
+## C++ Learning Repository
 
 This repository is used to practice and learn **C++ fundamentals**:
 
 The goal of this repository is **learning**, not production-ready code.  
 All files here are for experimentation, understanding syntax, logic, and core programming concepts.
 
-## 📚 What This Repository Is For
+### What This Repository Is For
 
 - Learning C++ basics and syntax  
 - Practicing problem-solving and logic  
@@ -13,7 +13,7 @@ All files here are for experimentation, understanding syntax, logic, and core pr
 - Writing small test programs and examples  
 - Building a strong foundation for future software development  
 
-## 🧠 Learning Resources
+### Learning Resources
 
 - C++ Documentation: https://en.cppreference.com
 - [Bro Code YouTube Channel](https://www.youtube.com/@BroCodez)
