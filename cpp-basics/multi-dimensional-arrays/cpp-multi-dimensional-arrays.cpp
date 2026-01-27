@@ -13,7 +13,7 @@ int main () {
         {"JAPAN", "JPY", "YEN"},
         {"BRITAIN", "GBP", "BRITISH POUND"},
         {"CHINA", "CNY", "YUAN"},
-        {"SWITZARLAND", "CHF", "SWISS FRANC"},
+        {"SWITZERLAND", "CHF", "SWISS FRANC"},
         {"CANADA", "CAD", "CANADIAN DOLLAR"}
    };
 

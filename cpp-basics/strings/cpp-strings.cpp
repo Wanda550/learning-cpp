@@ -42,7 +42,7 @@ int main() {
     std::cout << myCar.front() << std::endl;
     std::cout << myCar.back() << std::endl;
 
-    // strings in C++ are mutable (directly modifyable)
+    // strings in C++ are mutable (directly modifiable)
     // that you edit, and add character to each individual character and the string will still be the same string
     // in other languages you would have to create another string everytime you want to add more characters
     myName[1] = '@';
@@ -50,7 +50,7 @@ int main() {
     myName += "C++";
 
     // in other languages
-    myCar = myCar + " Niro";
+    myCar = myCar + " Nero";
 
     std::cout << myName << std::endl;
     std::cout << myCar << std::endl;
