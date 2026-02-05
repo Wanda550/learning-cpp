@@ -21,7 +21,7 @@ int main() {
    cout << "Tip option 2: " << tipOptions[1] << endl;
    cout << "Tip option 3: " << tipOptions[2] << endl;
 
-   // initailising method
+   // initialising method
    const int scores[4] = {84, 36, 91, 64};
 
    cout << "Test score 1: " << scores[0] << endl;
