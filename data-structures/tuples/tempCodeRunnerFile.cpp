@@ -1,0 +1,1 @@
+std::cout << std::get<int>(student) << std::endl;

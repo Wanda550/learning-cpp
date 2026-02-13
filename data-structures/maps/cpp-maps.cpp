@@ -28,8 +28,10 @@ int main() {
     // fruits.insert(std::pair<std::string, float>("banana", 1.50));
     // fruits.insert(make_pair("banana", 1.50));
     fruits.insert({"banana", 1.50});
+    // fruits.erase("banana");
+    // fruits.clear()
  
-    for(std::pair<std::string, float> fruit : fruits) {
+    for(auto fruit : fruits) {
         std::cout << fruit.first << " " << fruit.second << std::endl;
     }
 
