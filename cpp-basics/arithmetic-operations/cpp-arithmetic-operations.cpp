@@ -24,12 +24,12 @@ int main() {
     std::cout << "Num (addition += shorthand): " << num << std::endl;  
 
     // if you want to add 1 you can use the increment operator
-    // preffered way if you only need to add 1
+    // preferred way if you only need to add 1
     num++;
     std::cout << "Num ++ increment: " << num << std::endl;
 
     // if you want to subtract 1 you can use the decrement operator
-    // preffered way if you only need to subtract 1
+    // preferred way if you only need to subtract 1
     num--;
     std::cout << "Num -- decrement: " << num << std::endl;
 
@@ -37,12 +37,12 @@ int main() {
     int remainder = num %= 5; 
     std::cout << "Num % modulo 5: " << remainder << std::endl;
 
-    // arithmetic operations have an order of presidence
+    // arithmetic operations have an order of precedence
     // parenthesis -> multiplication & division -> addition & subtraction
     int students = 6 + (8 - 5) * 3 / 4;
-    std::cout << "Order of presidence for 6 + (8 - 5) * 3 / 4: " << students << std::endl;
+    std::cout << "Order of precedence for 6 + (8 - 5) * 3 / 4: " << students << std::endl;
 
-    //useful math functions section
+    // useful math functions section
 
     double x = 3;
     double y = 4;
@@ -72,11 +72,11 @@ int main() {
     z = round(3.14);
     std::cout << "rounded value of 3.14: " << z << std::endl;
 
-    //round up (no matter the value of the demal numbers) rule for a decimal value 
+    //round up (no matter the value of the decimal numbers) rule for a decimal value 
     z = ceil(3.14);
     std::cout << "rounded up value of 3.14: " << z << std::endl;
 
-    //round down (no matter the value of the demal numbers) rule for a decimal value 
+    //round down (no matter the value of the decimal numbers) rule for a decimal value 
     z = floor(3.14);
     std::cout << "rounded up value of 3.14: " << z << std::endl;
 

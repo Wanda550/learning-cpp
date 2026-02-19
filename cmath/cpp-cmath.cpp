@@ -12,13 +12,12 @@ int main() {
 
     std::cout << std::min(x, y) << std::endl;
     std::cout << std::max(x, y) << std::endl;
-    std::cout << abs(z) << std::endl;
+    std::cout << abs(x) << std::endl;
     std::cout << ceil(z) << std::endl;
     std::cout << floor(z) << std::endl;
     std::cout << round(z) << std::endl;
     std::cout << pow(x, y) << std::endl;
     std::cout << sqrt(x) << std::endl;
-
     
     return 0;
 }
