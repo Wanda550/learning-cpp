@@ -41,6 +41,8 @@ int main() {
             std::getline(ss, price, ',');
             std::cout << price << std::endl;
         }
+    } else {
+        std::cout << "Unable to open file" << std::endl;
     }
 
     myFile.close();

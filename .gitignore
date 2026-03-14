@@ -1,7 +1,5 @@
 
----
-
-## 📄 `.gitignore`
+## .gitignore
 
 This ignores compiled binaries and common C++ build files so your repo stays clean.
 
